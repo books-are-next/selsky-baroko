@@ -103,7 +103,7 @@ Chvíli si mě dobírala. Vraceli jsme se do badatelny státního oblastního ar
 
 Zaklapl jsem prastarou knihu, Daniele zazvonil telefon, vyběhla s ním na chodbu. Taky jsem vstal a protáhl si záda. Pak jsem odsunul všechny staré matriky a civěl na monitor notebooku. Našel jsem si adresář, který jsem pojmenoval Tomašice. Procházel jsem jména sedláků, Kubach, Mařánek, Sládek, Jircha. Za zavřenými víčky se mi rozhořela tomašická náves zalitá světlem, slunce napíchnuté na špičce kostelní věže, pod ní hřbitůvek a ty litinové kříže.
 
-\* \* \*
+* * *
 
   
 
@@ -195,7 +195,7 @@ Nechal jsem otázku viset ve vzduchu. Scházeli jsme k městu, svíral mě poci
 
 Horká noc, měl jsem otevřené okno a sám v poloprázdném bytě jsem nemohl spát. Stěny sálaly, já ležel nahý na posteli a po bílém stropě plavaly její světlé vlasy. I když jsem zavřel oči. Tranzistorové rádio plnilo pokoj tichou hudbou, svítilo, dioda blikala. První ranní zprávy a město bylo jako mrtvé.
 
-\* \* \*
+* * *
 
   
 
@@ -225,13 +225,21 @@ Kennedy mlčel a mistr se držel půllitru.
 
 Vytáhl jsem z aktovky desky a přitočil si židli ke Kennedymu. Otevřel jsem je, obracel jsem okopírované dokumenty. Kennedy si nasadil brýle.
 
+  
+
 Zpráva o trestních věcech vedených proti vesnickým boháčům za měsíc únor 1953.
+
+  
 
 V hlavičce byla uvedena krajská prokuratura, jako příjemce dokumentu ministerstvo spravedlnosti. Otáčel jsem pomalu listy.
 
 „Je to jasný, Honzo. Šrámek se ani nesnažil mi to vymlouvat. Podívej se na tohle.“
 
+  
+
 Jakub Jircha, Tomašice čp. 8, výměra 31 ha. Odsouzen k 5 letům těžkého žaláře, k propadnutí celého jmění, zákazu pobytu v dosavadním bydlišti, peněžité pokutě a ztrátě občanských práv.
+
+  
 
 „Takovýhle zprávy chodily z okresu na ministerstvo každej měsíc. Dá se to sehnat, když člověk ví kde. Jsou tam tresty v tom tomašickým procesu. Zatýkání provedený na udání ze vsi.“
 

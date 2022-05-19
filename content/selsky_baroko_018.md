@@ -277,7 +277,7 @@ Konečně jsme přijeli na silniční obchvat kolem Třeboně, navedl jsem Danie
 
 Rozsvítil jsem v poloprázdném bytě s rozházenými věcmi a stohy různých papírů a listin, starých knih. Uvolnil jsem jedno rozvrzané odřené křeslo, sedla si do něj v těch svých krásných šatech. Zatáhl jsem závěs, déšť byl pořád za oknem, tloukl do skla, jako by se chtěl dostat k nám dovnitř.
 
-\* \* \*
+* * *
 
   
 
@@ -295,6 +295,8 @@ Za chvíli stál Kennedy ve vchodu v šoférské uniformě, jako by nebyla sobo
 
 Seděl jsem na předním sedadle a byl jsem trochu napjatý vzrušením, mohutný Kennedy za volantem v klidu žvýkal, reflektory osvětlovaly úzkou asfaltku vedoucí do vedlejší vsi. Zastavili jsme na kraji návsi, vystoupil jsem, motor tiše vrčel, před místním kulturním domem parkovalo několik aut, viděl jsem hlouček mladých lidí, vedle vchodu zářil plakát.
 
+  
+
 PUSHKIN PARTY
 
 KAŽDÝ TŘETÍ PANÁK VODKY PUSHKIN ZDARMA
@@ -306,6 +308,8 @@ DJ SLIM
 +
 
 PŮLNOČNÍ STRIPTÝZ
+
+  
 
 Bratři Hlavatkové nikde. Zašel jsem dovnitř, do kulturáku, kde se konalo dostaveníčko s Puškinem. Opírali se ještě o bar. Sláva. Hádal jsem, že o poezii tam ten večer asi nejde. Kývl jsem na ně, kupodivu neprotestovali a dopili. Flamendr Josef zase jednou vytáhl staršího bráchu od rodiny. Čekal jsem před kulturákem, zdálky jsem slyšel bručet motor autobusu.
 

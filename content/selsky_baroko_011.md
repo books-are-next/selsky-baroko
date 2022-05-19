@@ -27,11 +27,19 @@ Myšlenkové pochody mistra Karáska poslední dobou ztrácely logiku.
 
 Znělo to spíš jako rozkaz než prosba. Došel jsem do kuchyně a vzal ze stolu štůsek papírů sešitých kancelářskými sponami. Psal jsem to kdysi pro národopisnou expozici do muzea. Nakonec to ani nepoužili. Kopie mi zůstala. Průklep přes fialový kopírák.
 
+  
+
 „Nejstarší tomašický památný zvon byl zvon sv. Václava. Již z roku 1598 pochází dochovaná písemná žádost na tehdejší vrchnost o opatření zvonu pro tamější kostel. Zvon však byl ulit až roku 1637, tedy téměř po čtyřiceti letech, což se dá vysvětlit dlouhou třicetiletou válkou…“
+
+  
 
 „To byl ten, co puknul,“ doplnil mistr.
 
+  
+
 „Tento starobylý zvon pukl roku 1936. Za přispění míst­ního sedláka Jirchy (5000 korun) byl pořízen zvon Panna Maria. Vysvěcen byl na podzim roku 1937 děkanem Tomášem Kyzourem v zastoupení vikáře a byl toho dne i zavěšen.“
+
+  
 
 Seděl jsem u jeho postele, mistr ležel opřený na vysokých polštářích a díval se se mnou do strojopisu.
 
@@ -39,7 +47,11 @@ Seděl jsem u jeho postele, mistr ležel opřený na vysokých polštářích a
 
 „To nevadí…“
 
+  
+
 „Za druhé světové války všechny tři zvony sebrány, tedy sv. Václav, Panna Maria i umíráček z malé věžičky, a odvezeny do Německa, údajně do Hamburku. Po okupaci byl vrácen pouze umíráček.“
+
+  
 
 Přinesl jsem mistrovi z kuchyně brýle. Hrnek čaje a spisek jsem dal na židli přistavenou k posteli. Do okna ložnice ještě nesvítilo slunce. Oslnilo mě až na prahu domu.
 
@@ -227,6 +239,10 @@ Pozdě večer jsem ležel na válendě v kuchyni, kde jsem spával, okno na ná
 
 Jméno Jircha se vyskytovalo už na seznamu tomašických hospodářů z roku 1624, kdy domy ještě nebyly číslovány. Z historie chalupy čp. 8 jsem před lety vypátral toto:
 
+  
+
 Stavení čp. 8 patřilo od roku 1694 jistému Samuelovi, synu Řehoře z nedaleké obce Chlumek, od něhož jej koupil za 85 kop r. 1713 místní hospodář Mikuláš Jircha. Od toho roku zůstal statek, později přestavěný v duchu tzv. vesnického baroka, v držení tohoto rodu. Odedávna se také podle pamětníků nazývá Jirchovna. Po Mikulášovi hospodařil v čp. 8 jeho syn Janek, který také kostelničil a zhotovoval hrábě, džbery, cepy, díže a jiné dřevěné výrobky. Dále v generacích rodu Jirchů jako majitelé následovali Antonín. (1788 až 1833), František (1861 až 1888) a Jakub (1888 až 1924) – otec posledního majitele zapsaného v knihách – Jakuba Jirchy, který byl i s rodinou vystěhován v roce 1953.
+
+  
 
 Zavřel jsem oči a v duchu jsem se pokoušel přeříkat, kolik panovníků, válek a režimů přestál rod Jirchů ve své chalupě. Bylo jich dost. Až lidově demokratické zřízení z roku 1948 Jakuba Jirchu, svobodného sedláka, odrovnalo, a to za necelé tři roky.

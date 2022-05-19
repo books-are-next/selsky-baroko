@@ -99,7 +99,7 @@ Rozesmál se, chlapi se na nás podívali, slyšeli moji poslední větu.
 
 Dopíjel jsem druhé pivo, Kennedy šel na záchod, koukal jsem směrem ke kostelu, kolem otlučená zídka a kříže. Podobný hřbitůvek jako v Tomašicích. Ta bába, co jsem ji tam drapnul mezi hroby, ta to ví, kde leží stará Zandlová. Byl jsem si tím jistý. A taky mě čím dál víc zajímalo, odkud se tu vzal pan Šrámek.
 
-\* \* \*
+* * *
 
   
 
@@ -151,7 +151,7 @@ Do badatelského listu jsem automaticky vyplnil _genealogický výzkum_. Došlo 
 
 Do pěti hodin bylo času dost a fascikl dokumentů už mi přinesli.
 
-\* \* \*
+* * *
 
   
 
@@ -182,9 +182,9 @@ Aby novej den byl
 Abych se podíval  
 V kterým vokně jsem byl…
 
-  
-
 Mistr kamenický stál na náměstí u svého koše, řekl jsem mu, ať se pro mě zastaví v hotelové restauraci, než pojede zpátky. Seděl jsem u kafe a probíral dokumenty, které jsem okopíroval v archivu.
+
+  
 
 Informační schůze na MNV Tomašice 7. 4. 1949.
 
@@ -193,6 +193,8 @@ Přípravný výbor ustaven na schůzi v kanceláři MNV 30. 5.
 JZD založeno 2. 7. 1949 za přítomnosti instruktorů z ONV.
 
 Počet členů JZD 18, celková výměra 28,5 ha zemědělské půdy.
+
+  
 
 Rozmazané litery, snad vlhkem, psací stroj před více než padesáti lety vytloukal ten strohý zápis do hrubého nažloutlého papíru a já jsem procházel stavy živého a mrtvého inventáře, soupis členů družstva a čísla popisná. Když jsem zavřel oči, viděl jsem ty chalupy. Znal jsem tomašickou náves už nazpaměť.
 

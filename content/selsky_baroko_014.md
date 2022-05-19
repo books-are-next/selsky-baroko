@@ -181,21 +181,33 @@ Dal jsem si v hotelu na náměstí vychlazenou minerálku, kávu a tatranku a�
 
 Zíral jsem na dopisní papír, na rukou psaný půlstránkový dopis, a přečetl jsem ho, nevím kolikrát, snad desetkrát, snad dvacetkrát. Mistr stál nade mnou, s košíkem a s kohoutem, byl čas vyrazit domů. Pokynul jsem mu, ale seděl jsem dál, hostinská přinesla dvě piva, asi je objednal on. Civěl jsem na podpis. Stálo tam to jméno, modrou propisovací tužkou, trochu archaickým nevypsaným rukopisem. Stálo tam: ROZÁLIE ZANDLOVÁ. Složil jsem papír a zastrčil ho zpátky do obálky, jako bych ho chtěl uklidit, na chvíli ztratit z očí. Pili jsme s mistrem pivo, studené, perlivé.
 
+  
+
 > _Můj syn je čestný člověk, nikdy nic špatného neudělal._
+
+  
 
 Měl jsem ty řádky před očima, měl jsem je už v hlavě, šlapali jsme zpátky do Touchova, mistr přede mnou, sledoval jsem jeho křivolakou jízdu.
 
+  
+
 > _Prosím Vás, neubližujte mu, vím, že pátráte v Tomašicích po těch věcech, co se tehdy staly…_
+
+  
 
 Opřeli jsme naše obstarožní kola na zahradě o strom, vypustil jsem kohouta na dvůr. Zůstal jsem sedět ve stínu domu na lavičce, mistr šel ohřívat do kuchyně polívku. Znovu jsem vytáhl dopis z obálky.
 
+  
+
 > _Bude Vám vděčná i celá jeho rodina… byli za ním už na jaře, všichni jsme mysleli, že už to skončilo, nechte ho, prosím, na pokoji. On neví, že jsem tenhle dopis napsala…_
+
+  
 
 Seděl jsem s hlavou v dlaních, kocovina odeznívala, mistr na mě volal z otevřeného okna, tak jsem se tedy zvedl a doploužil se do kuchyně. K sobotnímu obědu.
 
 Díval jsem se na bílou obálku, která ležela na stole, měl jsem ji na očích všechny ty horké dny, kdy jsem se vracel večer do Touchova. Byla založená v kredenci za sklem. Ve středu jsem zůstal přes noc v Třeboni. Divné dny, léto už mělo pohasínat, ale pořád ještě hořelo naplno.
 
-\* \* \*
+* * *
 
   
 
@@ -227,7 +239,7 @@ Jeho ztrhaná tvář nedávala znát žádné další pohnutí. Pak se na­jedno
 
 „Jen přijď, rozbiju ti palici!“ zařval chraplavým hlasem a rozkašlal se dlouhým kuřáckým kašlem, z kravína vyšly dvě zvědavé ženské v šátcích a v zelených gumových rukavicích.
 
-\* \* \*
+* * *
 
   
 
@@ -283,6 +295,8 @@ K večeru jsem si sedl na otoman, o kterém tak zasvěceně mluvila sousedka. 
 
 Hodil jsem kalendář zpět do zásuvky a otevřel jsem zápisník, jen z profesionálního zvyku jsem otočil pár stránek. Zase čísla, ceny, stejnou tužkou. Pročítal jsem jednotlivé položky na stránce nadepsané Květa.
 
+  
+
 > _Tepláky obnošené 3 ks po 5 Kč_
 
 > _Holiny zánovní č. 61 pár 100 Kč_
@@ -290,6 +304,8 @@ Hodil jsem kalendář zpět do zásuvky a otevřel jsem zápisník, jen z prof
 > _Deštník, opravovaný 1 kus 50 Kč_
 
 > _Zástěra, nepoužitá 2 kusy po 70 Kč_
+
+  
 
 Probral jsem se výčtem těch bizarních věcí a věciček až ke konci. Bylo to jasné. Seznam všeho, co po Květě Lánové zůstalo. Pod čarou součet. Ocenění nebožky manželky v korunách českých…
 
@@ -367,7 +383,7 @@ Díval se na mě dost nechápavě.
 
 Milan odcházel k hospodě. Otočil jsem se zpátky ke své celodenní práci. Chalupa už budila o poznání lepší dojem. Otevřenými okny protahoval čerstvý vzduch a vynášel ven zatuchlinu, plíseň a sto let starý smutek.
 
-\* \* \*
+* * *
 
   
 
@@ -399,7 +415,7 @@ Přikývl jsem a otočil se k odchodu.
 
 Říkal si to spíš sám pro sebe.
 
-\* \* \*
+* * *
 
   
 
@@ -461,7 +477,7 @@ Vytáhl jsem obálku a podal jsem mu dopis. Četl a mračil se do toho bělost
 
 Plahočili jsme se po vesnických zastávkách, vezl jsem se bez jízdenky, jediný klad toho odpoledne. K opěradlu sedačky se mi přilepilo zpocené tričko, probíral jsem se dokumenty v drncajícím autobuse, listoval jsem tou už téměř zapomenutou historií. Skoro už jsem ji měl poskládanou. A v brašně, která ležela na sedačce vedle mě, byl dopis od ženy, která znala ten příběh celý, měla k němu klíč. Svou paměť. A pokaždé když jsem rovnal listiny zpátky do desek, skončil jsem u té jediné věty. Ta nebyla nikde zapsaná. Nevlastnil jsem originál, ani opis, ani kopii. Byla jen vyslovená. Poprvé před desítkami let a přednedávnem znovu v jedné budějovické cukrárně. _Nedonutili mě nenávidět_. To řekl pan Mařánek, bývalý sedlák z Tomašic, jednou v zimě roku 1961, v sednici svého stavení, když už mu zbývalo jen pár dní života.
 
-\* \* \*
+* * *
 
   
 
@@ -581,6 +597,8 @@ Pod igelitem bylo cítit plíseň, vytáhl jsem knihy na boží světlo. Byly za
 
 Nervózními prsty jsem otevřel desky té první, červené knihy. Silný papír posetý zažloutlými flíčky, na spodních okrajích osahaný.
 
+  
+
 PAMĚTNÍ KNIHA OBCE TOMAŠICE S OSADAMI ČERNÁ HŮRKA A SMRČÍ
 
 Založena v r. 1924
@@ -590,6 +608,8 @@ Pamětní kniha čítá 200 uzavřených stran
 Knihu tuto jest vždy v měsíci lednu každého roku na obec­ním úřadě k veřejnému nahlédnutí vystaviti.
 
 Zápisy konal: Jaroslav Matějka, řídící učitel v. v.
+
+  
 
 Za tímto jménem bylo jiným písmem připsáno: _Od roku 1937 zapisoval Václav Markyta, domkář čp. 28._ Zápisy končily rokem 1957.
 
