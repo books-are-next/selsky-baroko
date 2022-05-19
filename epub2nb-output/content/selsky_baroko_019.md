@@ -49,7 +49,7 @@ Vystoupil jsem, šli jsme do nádražního bufetu, Kennedy se na mě soucitně d
 
 „Jo. A hned ho pořádně projedu.“
 
-\* \* \*
+* * *
 
   
 

@@ -51,7 +51,7 @@ Koukal jsem do polosuché trávy.
 
 „Tak platí,“ řekl po chvilce sám, „kdybyste tu nebyl, zazvoním na vás v archivu.“
 
-\* \* \*
+* * *
 
   
 
@@ -105,7 +105,7 @@ Byl jsem už u dveří z badatelny do kanceláře, musel jsem se pousmát, dí
 
 „Kde to je? Slyšíte, kde to jako je…?“ slyšel jsem za sebou ještě její tlumený hlas.
 
-\* \* \*
+* * *
 
   
 
@@ -143,7 +143,7 @@ Pohnula prudce hlavou, jako by se lekla, když jsem vyslovil to jméno. Slunce r
 
 Čekal jsem chvíli, jestli se zastaví. Pak jsem rychle vykročil ze hřbitovní brány na silnici, ani jsem se neohlížel, jen jsem cítil v zádech nějakou tíhu, které jsem chtěl rychle utéct. Odpolední slunce mě naplno zasáhlo, asfalt žhnul pod podrážkami, pach téru. Viděl jsem stařeninu nahrbenou drobnou postavu, mířila do vsi. Vydal jsem se pomalu stejným směrem a pak vlezl do auta, do těžkého dusna rozpáleného plechu a plastu. Vyjel jsem úzkou silničkou do kopečka a zajel na polní cestu. Dveře jsem nechal otevřené a vyběhl na stráň, odkud se otevíral výhled do kraje. Za vsí dlouhý kravín, neudržovaný, kopřivy sahaly pod okna. Usedl jsem na louku a pak se natáhl do pichlavé trávy. Kraťoučká tuhá stébla, sestřižená na ježka, jako vlasy mého syna Hynka. Usmíval jsem se při pomyšlení na něho a hleděl do nebe, které se pomalounku sunulo i s mráčky do stráně. Chvějící se vzduch trhal vůně travin a kytek a rozhazoval je všude kolem; až tady jsem se cítil zase lehký a bez mrazení v zádech. Slast se do mě nalévala, a když jsem přivřel oči a uvolnil se, závrať mě mohla vzít do náruče a odnést. Otevřený kraj. Spokojeně jsem se usmíval do nebe, potvrdil se můj předpoklad, že až projdu ves, vzpomenu si. Zápisky o tomašických zvonech budou určitě u bratra ve Hvozdí. Někde v mé bývalé mládenecké světničce…
 
-\* \* \*
+* * *
 
   
 

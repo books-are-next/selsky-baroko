@@ -111,7 +111,7 @@ Došli jsme až k zastávce trolejbusu, nechtěla svézt autem.
 
 „Že o kronice nikdo neví, to mě ani nepřekvapuje,“ řekla na rozloučenou, „lidi mají dneska jiný starosti…“
 
-\* \* \*
+* * *
 
   
 
@@ -181,7 +181,7 @@ Na sobě měla ty červené kalhoty, jako při naší první večeři. Ale tón 
 
 Loučila se ještě v kanceláři, já už jsem běžel dolů po schodech. Bylo to za mnou a ve mně se otvírala ta známá radost, víkend s Hynkem, jen přestát cestu tam a zpátky v srpnovém vedru.
 
-\* \* \*
+* * *
 
   
 
@@ -345,7 +345,7 @@ Nad zárubní kuchyně visela na skobě zarámovaná destička s vybledlým ná
 
 „Probudím se a říkám si, co se to ksakru děje? Vtrhli sem Němci? Nebo Rusáci…?“ povídal mistr Karásek. Díval jsem se po nevinných tvářičkách u snídaně a říkal jsem si, že vyšetřování, kdo z dětí přitáhl do chalupy petardy zbylé od silvestra, odložím na neurčito.
 
-\* \* \*
+* * *
 
   
 

@@ -1,0 +1,424 @@
+{
+  "preview": {
+    "isPreview": false
+  },
+  "title": "Selský baroko",
+  "author": "Jiří Hájíček",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "beletrie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "hajicek-selsky-baroko-66a3b2d",
+  "revision": "66a3b2d",
+  "readingOrder": [
+    "promo.html",
+    "selsky_baroko_004.html",
+    "selsky_baroko_005.html",
+    "selsky_baroko_006.html",
+    "selsky_baroko_007.html",
+    "selsky_baroko_008.html",
+    "selsky_baroko_009.html",
+    "selsky_baroko_010.html",
+    "selsky_baroko_011.html",
+    "selsky_baroko_012.html",
+    "selsky_baroko_013.html",
+    "selsky_baroko_014.html",
+    "selsky_baroko_015.html",
+    "selsky_baroko_016.html",
+    "selsky_baroko_017.html",
+    "selsky_baroko_018.html",
+    "selsky_baroko_019.html",
+    "selsky_baroko_020.html",
+    "colophon.html"
+  ],
+  "generatedAt": {
+    "date": "Thu May 19 2022 12:33:07 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652963587372
+  },
+  "documents": [
+    {
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "selsky_baroko_004.html",
+      "toc": []
+    },
+    {
+      "title": "Selský baroko",
+      "file": "selsky_baroko_004.html",
+      "words": 90,
+      "chars": 587,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 1,
+      "prev": "promo.html",
+      "next": "selsky_baroko_005.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Selský baroko",
+      "file": "selsky_baroko_005.html",
+      "words": 156,
+      "chars": 1001,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 2,
+      "prev": "selsky_baroko_004.html",
+      "next": "selsky_baroko_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Psí kuchyně",
+      "file": "selsky_baroko_006.html",
+      "words": 3019,
+      "chars": 18175,
+      "ideas": 130,
+      "role": "chapter",
+      "order": 3,
+      "prev": "selsky_baroko_005.html",
+      "next": "selsky_baroko_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Psí kuchyně",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Dies mortis",
+      "file": "selsky_baroko_007.html",
+      "words": 2643,
+      "chars": 15483,
+      "ideas": 134,
+      "role": "chapter",
+      "order": 4,
+      "prev": "selsky_baroko_006.html",
+      "next": "selsky_baroko_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Dies mortis",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pokrevenství",
+      "file": "selsky_baroko_008.html",
+      "words": 2468,
+      "chars": 14638,
+      "ideas": 136,
+      "role": "chapter",
+      "order": 5,
+      "prev": "selsky_baroko_007.html",
+      "next": "selsky_baroko_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Pokrevenství",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tomašice, Černá Hůrka, Smrčí",
+      "file": "selsky_baroko_009.html",
+      "words": 1879,
+      "chars": 11237,
+      "ideas": 64,
+      "role": "chapter",
+      "order": 6,
+      "prev": "selsky_baroko_008.html",
+      "next": "selsky_baroko_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tomašice, Černá Hůrka, Smrčí",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tomašické zvony",
+      "file": "selsky_baroko_010.html",
+      "words": 3043,
+      "chars": 17989,
+      "ideas": 165,
+      "role": "chapter",
+      "order": 7,
+      "prev": "selsky_baroko_009.html",
+      "next": "selsky_baroko_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tomašické zvony",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Nálezy v krajině",
+      "file": "selsky_baroko_011.html",
+      "words": 2328,
+      "chars": 13798,
+      "ideas": 113,
+      "role": "chapter",
+      "order": 8,
+      "prev": "selsky_baroko_010.html",
+      "next": "selsky_baroko_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Nálezy v krajině",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "The River of Vltava",
+      "file": "selsky_baroko_012.html",
+      "words": 2336,
+      "chars": 13650,
+      "ideas": 107,
+      "role": "chapter",
+      "order": 9,
+      "prev": "selsky_baroko_011.html",
+      "next": "selsky_baroko_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "The River of Vltava",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Čp. 11",
+      "file": "selsky_baroko_013.html",
+      "words": 4372,
+      "chars": 25550,
+      "ideas": 198,
+      "role": "chapter",
+      "order": 10,
+      "prev": "selsky_baroko_012.html",
+      "next": "selsky_baroko_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Čp. 11",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Dopisy",
+      "file": "selsky_baroko_014.html",
+      "words": 6415,
+      "chars": 37922,
+      "ideas": 286,
+      "role": "chapter",
+      "order": 11,
+      "prev": "selsky_baroko_013.html",
+      "next": "selsky_baroko_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Dopisy",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kennedy",
+      "file": "selsky_baroko_015.html",
+      "words": 1419,
+      "chars": 8446,
+      "ideas": 82,
+      "role": "chapter",
+      "order": 12,
+      "prev": "selsky_baroko_014.html",
+      "next": "selsky_baroko_016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kennedy",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ohlasy na Rozálii Zandlovou",
+      "file": "selsky_baroko_016.html",
+      "words": 4366,
+      "chars": 25880,
+      "ideas": 188,
+      "role": "chapter",
+      "order": 13,
+      "prev": "selsky_baroko_015.html",
+      "next": "selsky_baroko_017.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Ohlasy na Rozálii Zandlovou",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Blázen na kopci",
+      "file": "selsky_baroko_017.html",
+      "words": 1278,
+      "chars": 7692,
+      "ideas": 60,
+      "role": "chapter",
+      "order": 14,
+      "prev": "selsky_baroko_016.html",
+      "next": "selsky_baroko_018.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Blázen na kopci",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Rozálie Zandlová",
+      "file": "selsky_baroko_018.html",
+      "words": 5926,
+      "chars": 35081,
+      "ideas": 184,
+      "role": "chapter",
+      "order": 15,
+      "prev": "selsky_baroko_017.html",
+      "next": "selsky_baroko_019.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Rozálie Zandlová",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kind einer Dirne",
+      "file": "selsky_baroko_019.html",
+      "words": 1483,
+      "chars": 8642,
+      "ideas": 77,
+      "role": "chapter",
+      "order": 16,
+      "prev": "selsky_baroko_018.html",
+      "next": "selsky_baroko_020.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kind einer Dirne",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Palác Flora",
+      "file": "selsky_baroko_020.html",
+      "words": 4470,
+      "chars": 26131,
+      "ideas": 199,
+      "role": "chapter",
+      "order": 17,
+      "prev": "selsky_baroko_019.html",
+      "next": "colophon.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Palác Flora",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tiráž",
+      "file": "colophon.html",
+      "words": 35,
+      "chars": 209,
+      "ideas": 10,
+      "role": "colophon",
+      "order": null,
+      "prev": "selsky_baroko_020.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 47732,
+      "chars": 282147,
+      "ideas": 2154
+    },
+    "chapters": {
+      "words": 47691,
+      "chars": 281902,
+      "ideas": 2140
+    }
+  }
+}

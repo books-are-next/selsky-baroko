@@ -1,11 +1,15 @@
 {
   "params": {
     "metadata": {
+      "languageCode": "cs",
       "title": "Selský baroko",
       "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
       "author": "Jiří Hájíček",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2020-05-13T00:00:00.000Z"
+      "modified": "2020-05-13T00:00:00.000Z",
+      "edition": "beletrie",
+      "publisherShort": "mkp",
+      "contentType": "prose"
     },
     "elements": {
       "title": "MLP_ uroven1_zvlastni_pripady\nMLP_uroven1_cast\nMLP-uroven2-kapitola\nMLP_uroven2_kapitola",
@@ -13,57 +17,61 @@
       "h2": "MLP-uroven3-nadpis\nMLP_uroven3_nadpis",
       "h3": "",
       "h4": "",
-      "hr": "",
+      "hr": "MLP-hvezdicky",
       "hrBefore": "",
       "hrAfter": "",
       "br": "",
-      "brBefore": "MLP_text_bez1radku\nMLP_text_bez1radku_-0-12-\nMLP_text_bez1radku_-12-0\nMLP-text-bez1radku\nMLP-text-bez1radku--0-12\nMLP-text-bez1radku--12-0\nMLP_dopis_bez1radku",
-      "brAfter": "",
+      "brBefore": "MLP_text_bez1radku\nMLP_text_bez1radku_-12-0\nMLP-text-bez1radku\nMLP-text-bez1radku--12-0\nMLP_dopis_bez1radku\nMLP-text--12-12\nMLP-text--12-0",
+      "brAfter": "MLP-text--12-12\nMLP-text--0-12\nMLP-text-bez1radku--0-12\nMLP_text_bez1radku_-0-12-",
       "blockquote": "MLP_verse_-0-12-\nMLP_verse_-12-12-\nMLP-dopis-bez1radku--I",
       "figure": "MLP_obrazky\nMLP-obrazky",
-      "em": "MLP_znak_kurziva_11b\nMLP_dopis_podpis_-I-\nMLP_titulka_prekladatel\nMLP-dopis-bez1radku--I\nMLP-text--I\nMLP-text-uprostred--I\nMLP-znak-kurziva-11b\nMLP-znak-kurziva-9b\nMLP-znak-tucna-kurziva-11b\nMLP_citat",
-      "verse": "MLP-verse\nMLP-verse.+",
+      "em": "MLP_znak_kurziva_11b\nMLP_dopis_podpis_-I-\nMLP_titulka_prekladatel\nMLP-dopis-bez1radku--I\nMLP-text--I\nMLP-text-uprostred--I\nMLP-znak-kurziva-11b\nMLP-znak-kurziva-9b\nMLP-znak-tucna-kurziva-11b\nMLP_citat\nMLP-dopis--I",
       "strong": "MLP-tiraz-autor-a-nazev\nMLP_tiraz_autor_a_nazev\nMLP-licence-paragraf",
       "remove": "",
-      "ignore": ""
+      "ignore": "",
+      "verse": "MLP-verse\nMLP-verse.+"
     },
     "structure": [
       {
         "isSection": true,
         "id": "section-1",
+        "listType": "plain",
         "children": [
           {
             "filename": "selsky_baroko_001.md",
             "xhtml": "selsky_baroko_001.xhtml",
             "id": 0,
-            "role": "chapter",
+            "role": "cover",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "selsky_baroko_002.md",
             "xhtml": "selsky_baroko_002.xhtml",
             "id": 1,
-            "role": "chapter",
+            "role": "promo",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "selsky_baroko_003.md",
             "xhtml": "selsky_baroko_003.xhtml",
             "id": 2,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "selsky_baroko_004.md",
@@ -74,7 +82,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "selsky_baroko_005.md",
@@ -85,7 +94,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "selsky_baroko_006.md",
@@ -96,7 +106,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Psí kuchyně"
           },
           {
             "filename": "selsky_baroko_007.md",
@@ -107,7 +119,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Dies mortis"
           },
           {
             "filename": "selsky_baroko_008.md",
@@ -118,7 +132,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Pokrevenství"
           },
           {
             "filename": "selsky_baroko_009.md",
@@ -129,7 +145,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Tomašice, Černá Hůrka, Smrčí"
           },
           {
             "filename": "selsky_baroko_010.md",
@@ -140,7 +158,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Tomašické zvony"
           },
           {
             "filename": "selsky_baroko_011.md",
@@ -151,7 +171,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Nálezy v krajině"
           },
           {
             "filename": "selsky_baroko_012.md",
@@ -162,7 +184,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "The River of Vltava"
           },
           {
             "filename": "selsky_baroko_013.md",
@@ -173,7 +197,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Čp\\. 11"
           },
           {
             "filename": "selsky_baroko_014.md",
@@ -184,7 +210,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Dopisy"
           },
           {
             "filename": "selsky_baroko_015.md",
@@ -195,7 +223,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kennedy"
           },
           {
             "filename": "selsky_baroko_016.md",
@@ -206,7 +236,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Ohlasy na Rozálii Zandlovou"
           },
           {
             "filename": "selsky_baroko_017.md",
@@ -217,7 +249,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Blázen na kopci"
           },
           {
             "filename": "selsky_baroko_018.md",
@@ -228,7 +262,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Rozálie Zandlová"
           },
           {
             "filename": "selsky_baroko_019.md",
@@ -239,7 +275,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kind einer Dirne"
           },
           {
             "filename": "selsky_baroko_020.md",
@@ -250,18 +288,21 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Palác Flora"
           },
           {
             "filename": "selsky_baroko_021.md",
             "xhtml": "selsky_baroko_021.xhtml",
             "id": 20,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           }
         ]
       }
@@ -474,6 +515,6 @@
       "user": "books-are-next",
       "repo": "selsky-baroko"
     },
-    "generatedAt": 1652962719709
+    "generatedAt": 1652963530084
   }
 }

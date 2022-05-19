@@ -35,7 +35,7 @@ Telefon najednou opravdu zadrnčel, vibroval a tančil po stole. Leknutím jsem
 
 V paneláku ještě nezačali topit, přehodil jsem si přes ramena deku a pustil starý tranzistorák. Deku, v níž byla naposledy po horké sprše zabalená ona.
 
-\* \* \*
+* * *
 
   
 
@@ -115,7 +115,7 @@ Oddálil jsem telefon od ucha.
 
 Setmělo se, dostala se do mě zima. Obešel jsem rybník a odemkl auto. Myslel jsem na Hynka, na tu hebkou samotu v krajině, na šípkový čaj v konvici, který si uvařím v poloprázdném pronajatém bytě.
 
-\* \* \*
+* * *
 
   
 
@@ -285,7 +285,7 @@ Zase jsme stáli naproti sobě, jako už tolikrát. Přerušila to mlčení.
 
 Nic jsem na to neodpověděl, na okamžik zaváhala, pak vykročila k průhledným posuvným dveřím, doléhal jimi hluk provozu z Vinohradské třídy. Zmizela do ulice plné lidí.
 
-\* \* \*
+* * *
 
   
 

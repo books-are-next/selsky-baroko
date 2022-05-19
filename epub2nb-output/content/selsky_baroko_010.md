@@ -99,7 +99,11 @@ Daniela se potichounku zasmála, upíjela šťávu z malovaného hrnku. Babičk
 
 „Tady je parte Mlejnkovy manželky z chicagskejch krajanskejch novin z roku 1944, paní Svárová. Podívejte se, přežila manžela o patnáct let.“
 
+  
+
 Marie Zahradek, roz. Malek, obydlí 2349 Albany Ave., naše drazemilovaná matka, tchyně, babička, prababička a švakruše, zemřela zaopatřena svátostmi umírajících ve středu, dne 28. června 1944 ve stáří 78 roků. Zesnulá narozena byla v Krovicích v kraji Budějovickém, v Americe dlela 38 roků. Přináležela ku Spolku sv. Anny č. 117 Č. K. J. Za tichou soustrast prosí: Frank, syn; Anna, Karolina, dcery…
+
+  
 
 Babička si nasadila brýle a pokřižovala se před blikajícím monitorem, četla nahlas ty názvy a data a jména pozůstalých. Byli jsme s Danielou zticha jako pěny.
 
@@ -245,7 +249,7 @@ Podívala se smutně, že jsem své vyprávění, které vždycky tak ráda posl
 
 „Víš, že vůbec nejsi Vlastíkovi podobnej? Ale paličáci jste oba stejný.“
 
-\* \* \*
+* * *
 
   
 
