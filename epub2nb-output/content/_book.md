@@ -15,7 +15,6 @@ meta:
   contentType: prose
 readingOrder:
   - promo.html
-  - selsky_baroko_004.html
   - selsky_baroko_005.html
   - selsky_baroko_006.html
   - selsky_baroko_007.html
@@ -36,6 +35,9 @@ readingOrder:
 tocBase:
   - id: section-1
     children:
+      - link: selsky_baroko_005.html
+        title: Věnování
+        hiddenTitle: true
       - link: selsky_baroko_006.html
         title: Psí kuchyně
         hiddenTitle: false
@@ -58,7 +60,7 @@ tocBase:
         title: The River of Vltava
         hiddenTitle: false
       - link: selsky_baroko_013.html
-        title: Čp\. 11
+        title: Čp. 11
         hiddenTitle: false
       - link: selsky_baroko_014.html
         title: Dopisy
