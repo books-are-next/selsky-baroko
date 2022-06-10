@@ -3,7 +3,7 @@ title: Palác Flora
 contentType: prose
 ---
 
-  
+<section>
 
 Z mobilního telefonu pořád stejná písnička. VOLANÁ STANICE JE DOČASNĚ NEDOSTUPNÁ. Ta nešťastná složka dokumentů ležela nehnutě stále na stejném místě v polici a já už jsem věděl dávno víc, než v ní bylo. I víc, než jsem sám kdy chtěl vědět.
 
@@ -37,7 +37,9 @@ V paneláku ještě nezačali topit, přehodil jsem si přes ramena deku a pus
 
 * * *
 
-  
+</section>
+
+<section>
 
 Neozvala se celý týden, ani já jsem její číslo nevolal. Proč bych měl, říkal jsem si. Složka na polici v třeboňském bytě pomalu zapadala prachem.
 
@@ -117,7 +119,9 @@ Setmělo se, dostala se do mě zima. Obešel jsem rybník a odemkl auto. Myslel
 
 * * *
 
-  
+</section>
+
+<section>
 
 Bílý čistý porcelán a káva, světla zářivek, zrcadlově naleštěné stěny. Na kožence béžové barvy jsem seděl opatrně. Objevila se v tmavomodrém kostýmku, parfémový oblak kolem ní byl jiný, než jsem znal. Nevstal jsem, když přišla. Nápojový lístek jsem nepustil z rukou. Sedla si naproti mně s koleny u sebe. Čas oběda, seděli jsme u stěny té luxusní kavárny, asi někde uprostřed. Objednala si taky kávu.
 
@@ -287,7 +291,9 @@ Nic jsem na to neodpověděl, na okamžik zaváhala, pak vykročila k průhledn
 
 * * *
 
-  
+</section>
+
+<section>
 
 Už jsem stál u auta zaparkovaného u chodníku, už mě studily v dlani klíčky s přívěskem. Televizní věž vyčnívala za bloky domů, zdála se být hned za rohem. Dal jsem klíčky do kapsy a šel jsem pěkných pár minut, než jsem se k věži dostal. Hlava zvrácená vzhůru, zavrávoral jsem. Futuristická stavba, ohromná plastová batolata s velkými hlavami lezla po jejím plášti.
 
@@ -377,7 +383,9 @@ Uvězněni v autě, liják neustával. Sledovala mě, černé namalované řasy
 
 Spolkla slzy, svaly v obličeji se pomalu uklidnily. Nastartoval jsem a projel ulicemi se spoustou zaparkovaných aut u chodníků zpátky k Floře. Daniela otevřela a rychle vystoupila. Stál jsem v zákazu zastavení a díval se, jak mizí v podchodu metra.
 
-  
+</section>
+
+<section>
 
 Déšť cestou řídnul, a když jsem sjel z dálnice, už nepršelo. Mraky se roztrhaly. V prodejně, která patřila k benzinové pumpě, jsem stál u horké kávy v kelímku a žvýkal housku. Všechno napětí dne bylo pryč, zbyla jen únava a malý ohníček tepla někde uvnitř. Pozoroval jsem lidi, kteří byli jako já. Na cestě. Za sklem bylo vidět kus tmavého pole a lesklou silnici.
 
@@ -414,3 +422,5 @@ Nemělo to cenu. Odcházel jsem po té neosvětlené asfaltové sil­ničce.
 „Hele, ještě jednou se tu objevíš, ty šmejde, a pustím psa! A pak zavolám policajty!“
 
 Z dálky za mnou se ozývaly nadávky. Cítil jsem kolem žaludku, že mě to úplně rozházelo, ten klid a vnitřní pořádek, co jsem si pracně budoval celou zpáteční cestu v autě… Přidal jsem do kroku a už jsem se neotočil.
+
+</section>

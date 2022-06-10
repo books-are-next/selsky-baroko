@@ -764,7 +764,7 @@ Object.defineProperty(exports, "__esModule", { value: true });
 /// <reference lib="WebWorker" />
 require("regenerator-runtime");
 const sw = self;
-const CACHE = 'cache-dda6f52';
+const CACHE = 'cache-561e862';
 /**
  * IndexedDB singleton wrapper used to store persistent information with an predefined {@link Schema}
  */
@@ -1019,7 +1019,7 @@ async function cache(context) {
         .open(CACHE)
         .then(cache => {
         console.log('[' + context + '] Opened cache');
-        return cache.addAll(["./","./colophon.html","./favicon.png","./index.html","./manifest.json","./promo.html","./selsky_baroko_005.html","./selsky_baroko_006.html","./selsky_baroko_007.html","./selsky_baroko_008.html","./selsky_baroko_009.html","./selsky_baroko_010.html","./selsky_baroko_011.html","./selsky_baroko_012.html","./selsky_baroko_013.html","./selsky_baroko_014.html","./selsky_baroko_015.html","./selsky_baroko_016.html","./selsky_baroko_017.html","./selsky_baroko_018.html","./selsky_baroko_019.html","./selsky_baroko_020.html","./fonts/Literata-Italic-var.woff2","./fonts/Literata-var.woff2","./fonts/LiterataTT-TextItalic.woff2","./fonts/LiterataTT-TextRegular.woff2","./fonts/LiterataTT-TextSemibold.woff2","./fonts/LiterataTT_LICENSE.txt","./fonts/SpaceGroteskVF.woff2","./fonts/SpaceGroteskVF_LICENSE.txt","./resources/image001_fmt.jpeg","./resources/image002_fmt.jpeg","./resources/obalka_selsky_baroko_fmt.jpeg","./resources/upoutavka_eknihy_fmt.jpeg","./scripts/bundle.js","./style/style.min.css","./template-images/circles.png"]);
+        return cache.addAll(["./","./colophon.html","./favicon.png","./index.html","./manifest.json","./promo.html","./selsky_baroko_005.html","./selsky_baroko_006.html","./selsky_baroko_007.html","./selsky_baroko_008.html","./selsky_baroko_009.html","./selsky_baroko_010.html","./selsky_baroko_011.html","./selsky_baroko_012.html","./selsky_baroko_013.html","./selsky_baroko_014.html","./selsky_baroko_015.html","./selsky_baroko_016.html","./selsky_baroko_017.html","./selsky_baroko_018.html","./selsky_baroko_019.html","./selsky_baroko_020.html","./fonts/Literata-Italic-var.woff2","./fonts/Literata-var.woff2","./fonts/LiterataTT-TextItalic.woff2","./fonts/LiterataTT-TextRegular.woff2","./fonts/LiterataTT-TextSemibold.woff2","./fonts/LiterataTT_LICENSE.txt","./fonts/SpaceGroteskVF.woff2","./fonts/SpaceGroteskVF_LICENSE.txt","./resources/image001_fmt.jpeg","./resources/image002_fmt.jpeg","./resources/obalka_selsky_baroko_fmt.jpeg","./resources/upoutavka_eknihy_fmt.jpeg","./scripts/bundle.js","./template-images/circles.png","./style/style.min.css"]);
     })
         .then(() => idb.set({ key: 'cacheUpdatedAt', value: new Date().toISOString() }))
         .then(() => {

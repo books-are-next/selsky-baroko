@@ -3,7 +3,7 @@ title: Dopisy
 contentType: prose
 ---
 
-  
+<section>
 
 V tomašické hospodě hluboký stín, zaprášené parkety, modro od cigaretového dýmu. Byl pátek večer, u zdi dva hrací automaty, točily se tam ty švestky a jablka, hrací bedny cinkaly. Mladý Markyta na ně pošilhával přes mé rameno. Tři lidi hráli šipky, tři rozpitá piva postavená na okraji stolu. Mladá holka v maskáčových bokových kalhotách s kapsami, bílé tílko na ramínka, věk jsem tipoval tak na osmnáct. S ní dva kluci, snad o něco starší, jeden v montérkách a v tričku. Markyta do sebe lil další pivo, oči mu plavaly, nebyly ani zlé, ani hodné, byly nijaké. Přisedl jsem si…
 
@@ -73,7 +73,9 @@ Objevil se ve vratech. Držel něco světlého, velkého, šustil igelitem, pro�
 
 S těžkou knihou v igelitu pod paží jsem klopýtal hrbolatou návsí, jak ožralej lancknecht, když táhne se svou kořistí domů z války. Odemknul jsem auto, z rozešitých zadních sedaček stáhl deku a vydal se na louku, dupal jsem ztěžka kupředu, palouk ponořený ve tmě voněl a já hodil deku na trávu, stébla mě píchala. Tropická noc ležela na krajině, šíleně vysoké nebe mě zasypalo světlem. Stulil jsem se na deku, s tvrdými deskami kroniky pod hlavou. Ze tmy vystoupily šedé obrysy, visely nad stébly trav a lístky jitrocele. Noční zvuky a záhadné šelesty si mě hned rozebraly, rozkradly, kousek po kousku mě hbitě roznesly po stráni, až jsem najednou nebyl…
 
-  
+</section>
+
+<section>
 
 V sobotu kolem osmé ráno jsem dorazil do Touchova, bolela mě hlava, žaludek jako na vodě, celý rozlámaný, mokrý od rosy. Na louce jsem se moc nevyspal. Mistr kameník už se po mně sháněl. Ano, jedeme na trh, málem bych zapomněl! Pod pumpou jsem pil, dlouhá žízeň, omyl jsem si tvář. Už měl připravené kolo, přivedl ze zahrady i druhé pro mne.
 
@@ -181,27 +183,39 @@ Dal jsem si v hotelu na náměstí vychlazenou minerálku, kávu a tatranku a�
 
 Zíral jsem na dopisní papír, na rukou psaný půlstránkový dopis, a přečetl jsem ho, nevím kolikrát, snad desetkrát, snad dvacetkrát. Mistr stál nade mnou, s košíkem a s kohoutem, byl čas vyrazit domů. Pokynul jsem mu, ale seděl jsem dál, hostinská přinesla dvě piva, asi je objednal on. Civěl jsem na podpis. Stálo tam to jméno, modrou propisovací tužkou, trochu archaickým nevypsaným rukopisem. Stálo tam: ROZÁLIE ZANDLOVÁ. Složil jsem papír a zastrčil ho zpátky do obálky, jako bych ho chtěl uklidit, na chvíli ztratit z očí. Pili jsme s mistrem pivo, studené, perlivé.
 
-  
+</section>
+
+<section>
 
 > _Můj syn je čestný člověk, nikdy nic špatného neudělal._
 
-  
+</section>
+
+<section>
 
 Měl jsem ty řádky před očima, měl jsem je už v hlavě, šlapali jsme zpátky do Touchova, mistr přede mnou, sledoval jsem jeho křivolakou jízdu.
 
-  
+</section>
+
+<section>
 
 > _Prosím Vás, neubližujte mu, vím, že pátráte v Tomašicích po těch věcech, co se tehdy staly…_
 
-  
+</section>
+
+<section>
 
 Opřeli jsme naše obstarožní kola na zahradě o strom, vypustil jsem kohouta na dvůr. Zůstal jsem sedět ve stínu domu na lavičce, mistr šel ohřívat do kuchyně polívku. Znovu jsem vytáhl dopis z obálky.
 
-  
+</section>
+
+<section>
 
 > _Bude Vám vděčná i celá jeho rodina… byli za ním už na jaře, všichni jsme mysleli, že už to skončilo, nechte ho, prosím, na pokoji. On neví, že jsem tenhle dopis napsala…_
 
-  
+</section>
+
+<section>
 
 Seděl jsem s hlavou v dlaních, kocovina odeznívala, mistr na mě volal z otevřeného okna, tak jsem se tedy zvedl a doploužil se do kuchyně. K sobotnímu obědu.
 
@@ -209,7 +223,9 @@ Díval jsem se na bílou obálku, která ležela na stole, měl jsem ji na očí
 
 * * *
 
-  
+</section>
+
+<section>
 
 Bylo odpoledne, hledal jsem ho v Tomašicích, pak jsem se dal autem kolem jetelové louky až k dlouhému kravínu, jeden pruh byl čerstvě vysečený, jel jsem po stopách traktoru. Obešel jsem dvouřadý kravín, z šikmého transportéru padal hnůj na rozlámaný valník, mezerami v postranicích protékala močůvka. Horko ještě zesilovalo těžký zápach hnoje, seděl ve starém otlučeném traktoru, který naprázdno blafal, za ním zapřažený valník. Pak se trhavě rozjel, kodrcal se k polnímu hnojišti. Počkal jsem si na něho při zpáteční jízdě mezi přerostlou mátou a poházenými cáry černé plachty ze silážní jámy.
 
@@ -241,7 +257,9 @@ Jeho ztrhaná tvář nedávala znát žádné další pohnutí. Pak se na­jedno
 
 * * *
 
-  
+</section>
+
+<section>
 
 Vstal jsem ráno ještě dřív než mistr kamenický, uvařil jsem kafe z melty, seděli jsme spolu v kuchyni za stolem, lámal si chleba do plechového hrnku s horkou kávou a lžící nabíral rozmočené kousky.
 
@@ -295,7 +313,9 @@ K večeru jsem si sedl na otoman, o kterém tak zasvěceně mluvila sousedka. 
 
 Hodil jsem kalendář zpět do zásuvky a otevřel jsem zápisník, jen z profesionálního zvyku jsem otočil pár stránek. Zase čísla, ceny, stejnou tužkou. Pročítal jsem jednotlivé položky na stránce nadepsané Květa.
 
-  
+</section>
+
+<section>
 
 > _Tepláky obnošené 3 ks po 5 Kč_
 
@@ -305,7 +325,9 @@ Hodil jsem kalendář zpět do zásuvky a otevřel jsem zápisník, jen z prof
 
 > _Zástěra, nepoužitá 2 kusy po 70 Kč_
 
-  
+</section>
+
+<section>
 
 Probral jsem se výčtem těch bizarních věcí a věciček až ke konci. Bylo to jasné. Seznam všeho, co po Květě Lánové zůstalo. Pod čarou součet. Ocenění nebožky manželky v korunách českých…
 
@@ -385,7 +407,9 @@ Milan odcházel k hospodě. Otočil jsem se zpátky ke své celodenní práci. 
 
 * * *
 
-  
+</section>
+
+<section>
 
 Zastavil jsem večer na tomašické návsi, ale ztrácel jsem trochu kuráž, jak jsem se blížil k místní hospodě. Vešel jsem, seděl na svém místě v rohu, v modrošedém oblaku kouře, půllitr před sebou. Hostinský pozdravil opatrně, trochu rozpačitě mě sledoval. Objednal jsem si u pultu minerálku a otočil se k Markytovi.
 
@@ -417,7 +441,9 @@ Přikývl jsem a otočil se k odchodu.
 
 * * *
 
-  
+</section>
+
+<section>
 
 Dával jsem si vodu u kiosku na budějovickém nádraží, těch litrů vody všeho druhu, co jsem do sebe nalil v tomhle parném létě! Koupil jsem si obloženou housku a čekal na lavičce pod rozpálenými plechovými střechami. Najednou probleskla vzpomínka. Vražedně rychlá, jako ostrý hrot šípu. Žár léta pod plachtou dřevěného stánku. Stojíme pod ní já a Andrea, všude kolem malované hrnečky, džbány a talíře. Hemžení tržiště. Muzika. Kde to mohlo být? Všude, kam jsme spolu jezdili. Potkávali jsme se s kamarády kováři nebo pekaři na náměstích a návsích…
 
@@ -479,7 +505,9 @@ Plahočili jsme se po vesnických zastávkách, vezl jsem se bez jízdenky, jedi
 
 * * *
 
-  
+</section>
+
+<section>
 
 V diáři jsem nalistoval poslední srpnový týden. Na čtyřiadvacátého tam byla poznámka TOMAŠICE – HOSPODA. Byl čas vyrazit tam.
 
@@ -597,7 +625,9 @@ Pod igelitem bylo cítit plíseň, vytáhl jsem knihy na boží světlo. Byly za
 
 Nervózními prsty jsem otevřel desky té první, červené knihy. Silný papír posetý zažloutlými flíčky, na spodních okrajích osahaný.
 
-  
+</section>
+
+<section>
 
 PAMĚTNÍ KNIHA OBCE TOMAŠICE S OSADAMI ČERNÁ HŮRKA A SMRČÍ
 
@@ -609,10 +639,14 @@ Knihu tuto jest vždy v měsíci lednu každého roku na obec­ním úřadě k�
 
 Zápisy konal: Jaroslav Matějka, řídící učitel v. v.
 
-  
+</section>
+
+<section>
 
 Za tímto jménem bylo jiným písmem připsáno: _Od roku 1937 zapisoval Václav Markyta, domkář čp. 28._ Zápisy končily rokem 1957.
 
 V kronice bylo založeno několik výstřižků z regionálního deníku Jihočeská pravda, krátké články z mnohem pozdější doby, nejspíš ze sedmdesátých let. Jeden o výročí 25 let zemědělského družstevnictví v obci Tomašice. Pod články jméno autora: _V. Markyta_. Dále byl založen zažloutlý list papíru s rozpitým kulatým razítkem obce a několika podpisy: _Letopisecká komise obce Tomašice_. Tři jména a kronikář. Pak několik dalších listin s razítky, přelétl jsem je zběžně očima. A konečně obálka, vylisovaná v deskách kroniky jako zežloutlý lístek ze stromu. Opatrně jsem si nastavil obálku před oči, aby se mi snad nerozpadla v prstech. Inkoustem nadepsaná adresa: _MNV Tomašice_. Skloněný rukopis, byl mi povědomý, oblá písmenka. Napětí ve mně vzrůstalo. Otřel jsem si zpocené prsty o kalhoty, chvíli jsem počkal, ale nedočkavost mě poháněla a trhala moje pohyby. Vyňal jsem z rozříznuté obálky složený list. Otevřel ho. Pohled mi padl okamžitě na dolní polovinu popsané stránky. Byl tam. Její podpis. _ROZÁLIE ZANDLOVÁ._ Srdce mi tlouklo, přejel jsem očima obsah. Nadpis byl větším písmem: _OZNÁMENÍ_. Jako ve školní slohové práci, napadlo mě. Potom šest řádků rukopisného textu. Papír s hrubou strukturou, nebyl to dopisní papír. Na levém okraji byly znát jemné nerovnosti. Zřejmě kdysi utržen přes ostrou hranu. Jednoduchým jazykem a slohem vyvedené upozornění na pravidelné schůzky několika občanů obce za účelem hraní hazardních her. Žádná jména. Jen označení místa: _Pila „U Šilhavých“, osada Smrčí._ V pravém horním rohu dopisu stejným rukopisem datum 10. 1. 1953.
 
 Otevřel jsem notebook, našel v paměti adresář s naskenovaným dopisem, který mi nedávno došel na starou adresu. Položil jsem otevřený dopis na klávesnici a podíval se na monitor. Zatajil jsem dech a soustředil se. Podpisy se téměř shodovaly, podobné písmo obou dopisů. Nebylo pochyb o tom, že je psala stejná ruka.
+
+</section>

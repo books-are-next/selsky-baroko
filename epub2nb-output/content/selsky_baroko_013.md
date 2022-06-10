@@ -3,7 +3,7 @@ title: Čp\. 11
 contentType: prose
 ---
 
-  
+<section>
 
 Některé kroniky prostě zůstanou mezi lidmi, do archivů se nedostanou. Opakoval jsem si, co mi řekli v okresním archivu a co jsem nakonec sám věděl taky. V autě, vzadu na sedačce, jsem měl plastovou bednu, že udělám odpoledne velký nákup v nějakém supermarketu, abychom s mistrem měli v chalupě co jíst. Zdi města sálaly už od rána, spěchal jsem na desátou dopolední do jedné budějovické kavárny.
 
@@ -113,7 +113,9 @@ Došli jsme až k zastávce trolejbusu, nechtěla svézt autem.
 
 * * *
 
-  
+</section>
+
+<section>
 
 V pátek odpoledne jsem podruhé marně zvonil u dveří jednoho budějovického bytu. Sjel jsem výtahem zase dolů a pak seděl uprostřed panelového sídliště mezi pískovištěm a oplechovanou ohradou. Rozmrzelý, že mi nic nevychází, jsem si rozbalil na lavičce laptop a pokoušel se pracovat a neztrácet čas. Maminky s kočárky, neposlušné dětičky. Nešlo to, ani když jsem se hodně soustředil. Sledoval jsem nervózně vchod a nakonec jsem se dočkal. Hubenou ženu s vlnitými kaštanovými vlasy jsem chytil ještě dole u schodů.
 
@@ -183,7 +185,9 @@ Loučila se ještě v kanceláři, já už jsem běžel dolů po schodech. Bylo
 
 * * *
 
-  
+</section>
+
+<section>
 
 Malý Hynek se těšil na vycházku do lesa, na fotbal na zahradě za domem mistra Karáska a hlavně na Hlavatkovic holky. V sobotu odpoledne jsme otevřeli vrátka do dvora u Hlavatků.
 
@@ -331,7 +335,9 @@ Musel jsem se usmát. Pohladil jsem Hynka po vlasech, který píchaly jako pose�
 
 „Anebo aspoň slavnej fotbalista…“
 
-  
+</section>
+
+<section>
 
 Ráno jsme se trousili do kuchyně, mistr Karásek už měl navařeno, hrnec čaje na plotně a v druhém hrnci bílé kafe. Lovil jsem ze sklenice kyselé okurky a přitom jsem krájel chleba pro děti, seděly všechny čtyři za stolem u otlučených porcelánových hrníčků, které panu Karáskovi ještě zbyly v kredenci. Máslo a med přinesl on sám ze spíže.
 
@@ -347,7 +353,9 @@ Nad zárubní kuchyně visela na skobě zarámovaná destička s vybledlým ná
 
 * * *
 
-  
+</section>
+
+<section>
 
 Do Tomašic jsem se dostal až v polovině týdne. Usedlost čp. 11 stojí na jihozápadní straně návsi. Obyčejné dva bílé štíty s vepsaným letopočtem LP 1874. Strohá brána bez zdobení, uzavřený dvůr s hospodářskými staveními, stodola, pak podivná nízká roubená stavba a mezi nimi průchod do sadu.
 
@@ -412,3 +420,5 @@ Obešli jsme kůlnu, v sadu byly kolem stěny kopřivy. Sešlapal jsem je a s�
 „Trochu to prozkoumejte, pane Herma,“ řekl jsem do jeho udiveného obličeje, „podívejte se na ty trámy, jak jsou poskládaný na sebe. Vsadím se, že tam nenajdete jedinej hřebík. A pokud opravdu ne, tak to mohlo bejt postavený někdy v sedmnáctým století.“
 
 „A já to chtěl zbourat,“ řekl pan Herma ohromeně své ženě, po kolena v kopřivách.
+
+</section>

@@ -3,7 +3,7 @@ title: "Nálezy v\_krajině"
 contentType: prose
 ---
 
-  
+<section>
 
 Mistra Karáska zase rozbolely nohy. Druhý den odmítal vstát. Navařil jsem plný hrnec čočkové polévky.
 
@@ -27,19 +27,27 @@ Myšlenkové pochody mistra Karáska poslední dobou ztrácely logiku.
 
 Znělo to spíš jako rozkaz než prosba. Došel jsem do kuchyně a vzal ze stolu štůsek papírů sešitých kancelářskými sponami. Psal jsem to kdysi pro národopisnou expozici do muzea. Nakonec to ani nepoužili. Kopie mi zůstala. Průklep přes fialový kopírák.
 
-  
+</section>
+
+<section>
 
 „Nejstarší tomašický památný zvon byl zvon sv. Václava. Již z roku 1598 pochází dochovaná písemná žádost na tehdejší vrchnost o opatření zvonu pro tamější kostel. Zvon však byl ulit až roku 1637, tedy téměř po čtyřiceti letech, což se dá vysvětlit dlouhou třicetiletou válkou…“
 
-  
+</section>
+
+<section>
 
 „To byl ten, co puknul,“ doplnil mistr.
 
-  
+</section>
+
+<section>
 
 „Tento starobylý zvon pukl roku 1936. Za přispění míst­ního sedláka Jirchy (5000 korun) byl pořízen zvon Panna Maria. Vysvěcen byl na podzim roku 1937 děkanem Tomášem Kyzourem v zastoupení vikáře a byl toho dne i zavěšen.“
 
-  
+</section>
+
+<section>
 
 Seděl jsem u jeho postele, mistr ležel opřený na vysokých polštářích a díval se se mnou do strojopisu.
 
@@ -47,11 +55,15 @@ Seděl jsem u jeho postele, mistr ležel opřený na vysokých polštářích a
 
 „To nevadí…“
 
-  
+</section>
+
+<section>
 
 „Za druhé světové války všechny tři zvony sebrány, tedy sv. Václav, Panna Maria i umíráček z malé věžičky, a odvezeny do Německa, údajně do Hamburku. Po okupaci byl vrácen pouze umíráček.“
 
-  
+</section>
+
+<section>
 
 Přinesl jsem mistrovi z kuchyně brýle. Hrnek čaje a spisek jsem dal na židli přistavenou k posteli. Do okna ložnice ještě nesvítilo slunce. Oslnilo mě až na prahu domu.
 
@@ -221,7 +233,9 @@ Podivil jsem se sám sobě, proč jsem s tím začal. Na nic se neptala.
 
 Vraceli jsme se z výletu, jak tomu Daniela říkala. Uvědomil jsem si s podivným neklidem, že se docela těším na klimatizovaný vzduch auta. A na její blízkost.
 
-  
+</section>
+
+<section>
 
 Mistra Karáska jsem zastihl v chodbičce, otevřenými dveřmi jsem ho viděl už zdálky. Až když jsem stál na prahu, uviděl jsem rozložený dřevěný metr v jeho rukách. Už jsem věděl, o co kráčí.
 
@@ -239,10 +253,16 @@ Pozdě večer jsem ležel na válendě v kuchyni, kde jsem spával, okno na ná
 
 Jméno Jircha se vyskytovalo už na seznamu tomašických hospodářů z roku 1624, kdy domy ještě nebyly číslovány. Z historie chalupy čp. 8 jsem před lety vypátral toto:
 
-  
+</section>
+
+<section>
 
 Stavení čp. 8 patřilo od roku 1694 jistému Samuelovi, synu Řehoře z nedaleké obce Chlumek, od něhož jej koupil za 85 kop r. 1713 místní hospodář Mikuláš Jircha. Od toho roku zůstal statek, později přestavěný v duchu tzv. vesnického baroka, v držení tohoto rodu. Odedávna se také podle pamětníků nazývá Jirchovna. Po Mikulášovi hospodařil v čp. 8 jeho syn Janek, který také kostelničil a zhotovoval hrábě, džbery, cepy, díže a jiné dřevěné výrobky. Dále v generacích rodu Jirchů jako majitelé následovali Antonín. (1788 až 1833), František (1861 až 1888) a Jakub (1888 až 1924) – otec posledního majitele zapsaného v knihách – Jakuba Jirchy, který byl i s rodinou vystěhován v roce 1953.
 
-  
+</section>
+
+<section>
 
 Zavřel jsem oči a v duchu jsem se pokoušel přeříkat, kolik panovníků, válek a režimů přestál rod Jirchů ve své chalupě. Bylo jich dost. Až lidově demokratické zřízení z roku 1948 Jakuba Jirchu, svobodného sedláka, odrovnalo, a to za necelé tři roky.
+
+</section>

@@ -3,7 +3,7 @@ title: Psí kuchyně
 contentType: prose
 ---
 
-  
+<section>
 
 Proboha, zase tenhle nešťastnej kout, jenom jsem si tak povzdechnul pro sebe. A slunce propalovalo tenké zelené listy, koruna lípy nad našimi hlavami hučela létem. Po cestičkách v parku se ploužili vedrem zmoření turisté a mířili k zámecké bráně.
 
@@ -53,7 +53,9 @@ Koukal jsem do polosuché trávy.
 
 * * *
 
-  
+</section>
+
+<section>
 
 Propletl jsem se nádvořím zámku, plným srpnového slunce a vý­letníků, vyběhl jsem pár schůdků k portálu oblastního archivu. Zamkl jsem si desky od pana Šrámka dole do skříňky a cestou do badatelny jsem myslel zase na Danielu.
 
@@ -107,7 +109,9 @@ Byl jsem už u dveří z badatelny do kanceláře, musel jsem se pousmát, dí
 
 * * *
 
-  
+</section>
+
+<section>
 
 Tomašice, Smrčí. Vesničtí boháči Jakub Jircha a Frant. Kubach st. obviněni z hanobení lidově demokratického zřízení. Staví se proti JZD založenému v obci. Tajně se spolčovali a štvali proti představitelům MNV a proti kolektivizaci zemědělství.
 
@@ -145,7 +149,9 @@ Pohnula prudce hlavou, jako by se lekla, když jsem vyslovil to jméno. Slunce r
 
 * * *
 
-  
+</section>
+
+<section>
 
 Daniela stála pod mohutným jírovcem, viděl jsem ji už od voliér s papoušky, bažanty a pávy. V červených kalhotách pod kolena, v bílém tričku, dívala se k zemi, snad na řemínky svých sandálků. Rozpuštěné vlasy padaly dozadu, ten plavý proud. Zpomalil jsem, proud turistů mě obtékal, bylo krátce po šesté odpolední.
 
@@ -274,3 +280,5 @@ Mermomocí mi chtěla zaplatit večeři. Nenechala si to rozmluvit. Prý za tu p
 „Myslela jsem, že jste Třeboňák.“
 
 „Kdepak. Přespávám tu jen pár dní v tejdnu, kvůli práci. Jinak bydlím v jedný malý vesničce, jmenuje se Touchov…“
+
+</section>
