@@ -3,47 +3,65 @@ title: Kennedy
 contentType: prose
 ---
 
-  
+<section>
 
 V sednici byl stín, ale přesto horko, seděl jsem do půl těla vysvlečený u kuchyňského stolu. Na něm rozevřenou kroniku. Obracel jsem ty zatuchle čpící stránky, drsné na omak, prokvetlé světlými skvrnkami a popsané úhledným rukopisem Václava Markyty. Pečlivě narýsované okraje, za čárou napravo hesla, jako třeba SPOLKY, STAVY DOBYTKA, SKLIZEŇ… Namátkou jsem se zastavoval u letopočtů, jmen.
 
 V roce 1937 novopečený mladý kronikář k heslu UDÁLOSTI za­psal:
 
-  
+</section>
+
+<section>
 
 14\. 9. zemřel náš president osvoboditel T. G. Masaryk. Jest však pro náš venkov nesmrtelným!!!
 
-  
+</section>
+
+<section>
 
 V roce 1938 byl u hesla POČASÍ pořízen tento zápis:
 
-  
+</section>
+
+<section>
 
 Ze 7. na 8. 11. zasáhlo Tomašice zemětřesení, které přivedlo mnohým domácnostem očividný pohyb obrazů na zdích. Koluje mezi lidmi pověst, že jest to první otřes Hitlerovy říše.
 
-  
+</section>
+
+<section>
 
 Další zápis zněl takto:
 
-  
+</section>
+
+<section>
 
 V r. 1940 na příkaz ministra školství a osvěty musí být tato pamětní kniha zaslána okres. úřadu v Č. Budějovicích a jím do archivu země České. Obecní kronikářství tím v naší obci ustává.
 
-  
+</section>
+
+<section>
 
 Podrobný zápis z válečných let byl učiněn dodatečně.
 
 Z listopadu roku 1945 mě zaujaly tyto řádky:
 
-  
+</section>
+
+<section>
 
 Lidový soud v Českých Budějovicích odsoudil z naší obce za zločin udavačství Šrámkovou Boženu ke smrti pro­vazem.
 
-  
+</section>
+
+<section>
 
 V roce 1946 Václav Markyta zapsal:
 
-  
+</section>
+
+<section>
 
 V květnu zřízen v obci telefon.
 
@@ -59,55 +77,81 @@ sociál. referentem: Petr Šrámek (SD)
 
 kulturním referentem: Václav Markyta (SD)
 
-  
+</section>
+
+<section>
 
 Zápis u hesla VÝROČÍ z roku 1948:
 
-  
+</section>
+
+<section>
 
 Památných událostí r. 1848, zejména zrušení roboty a osvobození selského stavu, vzpomenuto bylo na veřejné oslavě 11. 9. 1948.
 
-  
+</section>
+
+<section>
 
 Následovalo heslo OSVĚTOVÁ KOMISE:
 
-  
+</section>
+
+<section>
 
 Podle nově vydaných směrnic o vedení obecních kronik pečuje nyní o vedení kroniky osvětová komise. Funkcí obecního kronikáře i nadále pověřen kulturní referent MNV Václav Markyta, čp. 28. Do kroniky mají být zapisovány události v obci, hlavně ty, které vystihují účast obce při budování socialismu.
 
-  
+</section>
+
+<section>
 
 První zápis roku 1950:
 
-  
+</section>
+
+<section>
 
 Propagační plakáty na obecním hostinci ohlašují nástup pětiletky.
 
-  
+</section>
+
+<section>
 
 Zápis u hesla VĚDA:
 
-  
+</section>
+
+<section>
 
 Naše zemědělská veřejnost podle vzoru sovětských kolchozníků se rozhodla uměle oplodňovat krávy.
 
-  
+</section>
+
+<section>
 
 Rok 1953 začal tímto zápisem:
 
-  
+</section>
+
+<section>
 
 Dne 5. 3. 1953 zemřel veliký přítel našeho lidu a učitel lidstva J. V. Stalin. Jeho pohřbu se v Moskvě zúčastnil i náš president K. Gottwald, který se cestou nachladil, roznemohl a 14. 3. 1953 odešel za svým velkým učitelem.
 
-  
+</section>
+
+<section>
 
 Obrátil jsem blok stránek, psal se rok 1957:
 
-  
+</section>
+
+<section>
 
 V tomto roce si koupil televizor Fr. Bouda, čp. 10. Obraz i zvuk je čistý.
 
-  
+</section>
+
+<section>
 
 Ale to už byla Rozálie dávno pryč ze vsi. Uvědomil jsem si, jak jsem se nechal unést listováním v kronice. Léta šustila mezi mými prsty a stoupal z nich pach zatuchliny. A mezitím stejný rukopis, co plakal za Masarykem, oplakal Stalina i Gottwalda, sám Markyta už v závorce za jménem neměl SD, ale KSČ. _Strany se sloučily_, jak psal na jednom místě svých letopisů. Ty nejzajímavější zápisy mě teprve čekaly, letmo jsem je minul, ale nikam mi neutečou, to jsem věděl, heslo JZD za svislou čárou bylo skoro na každé stránce. Zaklapl jsem rychle knihu. Ne, ty litery vykroužené vybledlým inkoustem odtud jen tak nezmizí. Už patřily mně.
 
@@ -210,3 +254,5 @@ Zakroutil hlavou a mávl rukou. Pak se přece jen o pár kroků vrátil.
 „Jo, pro ten velkej šutr sjedem někdy v noci,“ řekl o poznání tišeji, „dám ti vědět.“
 
 Nastoupil, zavřel za sebou dveře a nastartoval. Ve špinavém obla­ku zmizel pomalu autobus a slunce bylo na své nebeské cestě ještě hodně, hodně vysoko.
+
+</section>

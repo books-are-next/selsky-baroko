@@ -4,6 +4,8 @@ hiddenTitle: true
 contentType: prose
 ---
 
+<section>
+
 > _Mýmu tátovi, kterýmu je letos sedmdesát_
 
 _a kterej se začátkem padesátejch let nesměl ani vyučit ře­meslu, protože byl synem kulaka,_
@@ -23,3 +25,5 @@ _kterej projel bez nehody šedesátý, sedmdesátý i osmdesátý léta,_
 _kterej po sametový revoluci jako šofér autokaru viděl půlku Evropy_
 
 _a kterej si dodnes pamatuje, jako by to bylo včera, každej kousek pole z toho čtyřiadvacetihektarovýho statku, co už dávno není…_
+
+</section>

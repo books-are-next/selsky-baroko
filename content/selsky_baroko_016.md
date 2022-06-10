@@ -3,7 +3,7 @@ title: Ohlasy na Rozálii Zandlovou
 contentType: prose
 ---
 
-  
+<section>
 
 Dostal jsem se do Tomašic až odpoledne, v krámu jsem se tentokrát ukázal schválně, koupil jsem si vodu a dva rohlíky. Pozoroval jsem její tvář, žádné pohnutí, když mě uviděla, nezavedla řeč na to, co mě zajímalo minule. Naopak zase měla ten trochu zlostný výraz v obličeji. Už mi to bylo celkem jedno.
 
@@ -123,57 +123,83 @@ Vrátil jsem se pohledem k návsi pode mnou. Stačilo si jen představit ty bí
 
 * * *
 
-  
+</section>
+
+<section>
 
 S barevnými samolepicími papírky v kronice Tomašic jsem stál u kopírky. Za každou záložkou kus té selské historie. Venku za výkladem polepeným reklamními nápisy projížděla auta, nárazy horkého vzduchu, hluku a smogu pokaždé, když se otevřely prosklené dveře kopírky.
 
 Zápisy z počátku padesátých let se hodně týkaly událostí, které mě zajímaly.
 
-  
+</section>
+
+<section>
 
 Při MNV zvolena na schůzi rady trestní komise složená z předsedy a dvou členů. Zabývat se má přečiny rolníků proti státní zemědělské politice, hospodářskými a kriminálními delikty.
 
-  
+</section>
+
+<section>
 
 První zápis o trestech byl hned na další stránce:
 
-  
+</section>
+
+<section>
 
 Za nesplněné předepsané dodávky v r. 1950 dostali někteří zemědělci peněžité pokuty, které byly změněny v tresty odnětí svobody. Jakub Jircha čp. 8 na 36 dní, Josef Sládek čp. 5 na 5 dnů, Jan Mařánek čp. 11 na 27 dní, Frant. Kubach čp. 23 rovněž na 27 dní.
 
-  
+</section>
+
+<section>
 
 Z přístroje vyjížděly věrné barevné kopie, Markytův rukopis, který už jsem důvěrně znal, dokonce bledé skvrnky v papíru vyvstávaly na okopírovaných stránkách.
 
-  
+</section>
+
+<section>
 
 Soukromý obchod Lad. Berana byl již od jara změněn na prodejnu konsumu „Rovnost“.
 
-  
+</section>
+
+<section>
 
 Listy ještě teplé z kopírovacího přístroje jsem rovnal do desek.
 
-  
+</section>
+
+<section>
 
 Zemědělci soustavně poučováni na schůzích, tiskem i obecním rozhlasem, že jediným východiskem z nesnází venkova je společná družstevní práce. Rolníci však lpějí na hospodaření soukromém, případně na dosavad obvyklém sdružování dobrovolném. Jen pomalu přicházejí k poznání, že nelze jinak než se podrobit.
 
-  
+</section>
+
+<section>
 
 Bylo to spíš povzdechnutí, Václav Markyta v té době ještě nepoužíval slova jako kulak či dobová politická hesla a ustálená slovní spojení. V jednom zápise si dokonce posteskl zřetelněji:
 
-  
+</section>
+
+<section>
 
 Rozdělení dodávek na rok 1951 dáno zemědělcům na vědomí a smlouvy k podpisu již 17. 1. Rozpisy vykonány podle směrnic – třídně. Vysoké dodávky unavují už i rolníky s výměrou kolem 10 ha.
 
-  
+</section>
+
+<section>
 
 Rok 1952 byl na vsi rušný, zkopíroval jsem stránku s tímto zápisem:
 
-  
+</section>
+
+<section>
 
 Částečný rozklad JZD II. typu v Tomašicích, dobrá polovina členů družstva při podzimních pracích začala pracovat zase samostatně.
 
-  
+</section>
+
+<section>
 
 Se složkou plnou dokumentů jsem vypadl na ulici do výhně města. Měl jsem pocit, že všechno už se uzavírá a že už se těch věcí snad brzy zbavím.
 
@@ -213,7 +239,9 @@ Stál u plotny a tahal zrovna po jejích plátech velký hrnec, z kterého se
 
 * * *
 
-  
+</section>
+
+<section>
 
 Časté výjezdy do krajského města mě v těch hicech ničily, zdržovaly mě, ale zdálo se, že už se pro mě případ Tomašice opravdu chýlí ke konci. Vláček z Třeboně přijel o hodinu dřív, než jsem potřeboval, a tak jsem měl uprostřed všeho spěchu najednou čas. Volným krokem jsem se vydal z vlakového nádraží sálajícími ulicemi do centra.
 
@@ -221,51 +249,75 @@ Přešel jsem most přes slepé rameno Malše a koupil si ve stánku se zelenin
 
 V roce 1953 Václav Markyta zapsal:
 
-  
+</section>
+
+<section>
 
 Koncem ledna vzati do vazby v Českých Budějovicích tito soukromí zemědělci z Tomašic: Jircha Jakub, čp. 8, a Kubach Frant., čp. 23. Rovněž správce pily Šilhavý Jar., Smrčí čp. 3. Dva posledně jmenovaní propuštěni v půli února s podmínečnými tresty.
 
-  
+</section>
+
+<section>
 
 Ty stručně psané věty jako by mlčely. Bylo toho za nimi tolik, ale nevyřčeného. Jen tušení. Dohady. Tohle mě i při padesátém, dvoustém čtení zasahovalo nejvíc.
 
-  
+</section>
+
+<section>
 
 2\. března byl souzen lidovým soudem v Českých Budě­jovicích Jircha Jakub a odsouzen na 5 roků. MNV nato uspořádal veřejnou schůzi v obecním hostinci, na příkaz ministerstva vnitra byl dosazen k ruce předsedy hospodářsko-politický tajemník z okresu. Zdůvodnil trestní postih sedláka Jirchy a seznámil občany obce podrobně s tímto případem.
 
-  
+</section>
+
+<section>
 
 I z těchto strohých řádků šlo zlověstné ticho. Jak dlouho asi Markyta stylizoval tenhle jeden odstavec… věděl jsem od pamětníků, že s Jirchou vycházel vcelku dobře.
 
-  
+</section>
+
+<section>
 
 14\. 3. vystěhována rodina odsouzeného sedláka Jirchy (manželka, 2 děti, nemohoucí vejminkářka Jirchová Terezie, matka) do okresu Trutnov. Majetek předán do užívání MNV, který tento převedl do bezplatného nájmu místnímu JZD.
 
-  
+</section>
+
+<section>
 
 Konec jednoho osudu. Pak už v tomto případu kronikář nepsal o lidech. Jen o polích nebo o chalupě.
 
-  
+</section>
+
+<section>
 
 Práce na „Jirchovně“ se nyní provádí společně, ale není dostatek pracovních sil. Orba zabezpečena družstevním traktorem Zetor 15. Část polí bývalého Jirchova statku přesto zůstává neobdělána. Družstvu hrozí, že nesplní plán.
 
-  
+</section>
+
+<section>
 
 Přesto se situace v družstvu nechtěla příliš stabilizovat. Opuštěný statek uprostřed vsi asi nepůsobil na místní dojmem, že všechno je v pořádku. V květnu téhož roku Markyta zapsal:
 
-  
+</section>
+
+<section>
 
 Pod kůlnou Jirchova dvora umístěna telata, v chlévech ustájeny vyřazené dojnice, v obytných místnostech po stavební úpravě bude zřízen provisorní vepřinec.
 
-  
+</section>
+
+<section>
 
 Ještě než Markyta zapsal, jak dopadly toho roku žně, stálo za čárou pravého okraje heslo _PATRONÁT_. K němu vyhotoven tento zápis:
 
-  
+</section>
+
+<section>
 
 Nad JZD převzaly patronát manželky vojáků z povolání od útvaru v Č. Budějovicích. Seznamovací večer byl 29\. června v místním hostinci. Patronky přijely autobusem a s nimi vojenská hudba.
 
-  
+</section>
+
+<section>
 
 Oslňoval mě sluneční svit, třepil se o lístky stromu, pod kterým jsem seděl. Zaklapl jsem knihu a docela se těšil do stínu kavárny.
 
@@ -434,3 +486,5 @@ Nezeptala se na ni. Naše odpolední káva byla u konce.
 Víc už jsem paní Hermovou netrápil. Odešla s igelitovou taškou se dvěma těžkými knihami v ruce, díval jsem se za ní, dokud se mi neztratila mezi lidmi na rušné ulici.
 
 Tak ani teď tuhle kroniku nikdo v archivu nenajde, napadlo mě. Dost možná, že ji už nikdo nikdy hledat nebude.
+
+</section>

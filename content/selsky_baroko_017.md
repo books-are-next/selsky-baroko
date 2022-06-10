@@ -3,7 +3,7 @@ title: Blázen na kopci
 contentType: prose
 ---
 
-  
+<section>
 
 Mobil mi zazvonil cestou z archivu.
 
@@ -33,7 +33,9 @@ Dal jsem telefon do kapsy a pocítil jsem naléhavě, že po hodinách stráven
 
 * * *
 
-  
+</section>
+
+<section>
 
 Daniela přijela do Třeboně v půlce týdne, ve státním oblastním archivu se objevila hned dopoledne. Už jsem tam seděl, vysílen z tropických týdnů. Mořili jsme se v badatelně s jejím rodopisem až do oběda, pak jsem musel na hodinu pryč, ale ještě odpoledne na zahrádce jedné restaurace jsme dávali materiály dohromady. Nabízela mi zase peníze. Vycítila moji časovou tíseň. Asi jsem byl nervózní. Potřeboval jsem ještě jednou zajet do Tomašic.
 
@@ -126,3 +128,5 @@ Nevěděl jsem najednou, jestli mám povídat dál. Proč vlastně.
 Mlčela, dívala se trochu stranou, seděli jsme ve stínu pod stromy. Pochyboval jsem, jestli to umím dost dobře vysvětlit, pochyboval jsem, jestli to tahle voňavá panička v krásných letních šatech a ve slamáčku může vůbec někdy pochopit.
 
 „On všem odpustil. To mě fascinuje. Protože já jsem čet všechny archivní listiny, zápisy kárné komise, agendu tehdejšího ONV, soupisy kulaků, kroniku Tomašic. Mluvil jsem se starejma lidma, který ho zažili a pamatujou i tu zlou dobu. A on, když mu bylo pětasedmdesát, sedřenej starej chlap, řek pár dní před smrtí: _Nedonutili mě nenávidět_…“
+
+</section>

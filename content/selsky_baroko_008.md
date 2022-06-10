@@ -3,7 +3,7 @@ title: Pokrevenství
 contentType: prose
 ---
 
-  
+<section>
 
 Dorazil jsem kolem desáté do archivu, den už se opět rozpaloval, ale v badatelně bylo příjemně. Seděla tam. Doufal jsem, že ji uvidím, a zároveň jsem si přál, aby už byla pryč. Rozmrzelo mě to. Ten vnitřní rozpor, to, co mi ubíralo soustředění. Nevyhnal jsem Danielu ani z hlavy, ani z denního rozvrhu. Slíbil jsem jí přece ještě pomoc v genealogickém pátrání.
 
@@ -105,7 +105,9 @@ Zaklapl jsem prastarou knihu, Daniele zazvonil telefon, vyběhla s ním na chod
 
 * * *
 
-  
+</section>
+
+<section>
 
 Seděl zase na stejné lavičce, čekal na mě. V parku začala hrát kapela, letní festival, spustilo to kousek od nás. Houf lidí kolem, nechtěl jsem křičet, abychom se slyšeli. Stíny tmavly a pokládaly se na zem vedle stromů, vzali jsme to kolem pivovaru a ke hrázi rybníka Svět.
 
@@ -197,7 +199,9 @@ Horká noc, měl jsem otevřené okno a sám v poloprázdném bytě jsem nemoh
 
 * * *
 
-  
+</section>
+
+<section>
 
 Vzal jsem večer s sebou do hospody mistra kamenického, na náves už padl stín, pod lípou seděli všichni jako obvykle. Přisedli jsme si ke Kennedymu, přinesl jsem z výčepu dvě piva a jedno postavil před mistra.
 
@@ -225,21 +229,29 @@ Kennedy mlčel a mistr se držel půllitru.
 
 Vytáhl jsem z aktovky desky a přitočil si židli ke Kennedymu. Otevřel jsem je, obracel jsem okopírované dokumenty. Kennedy si nasadil brýle.
 
-  
+</section>
+
+<section>
 
 Zpráva o trestních věcech vedených proti vesnickým boháčům za měsíc únor 1953.
 
-  
+</section>
+
+<section>
 
 V hlavičce byla uvedena krajská prokuratura, jako příjemce dokumentu ministerstvo spravedlnosti. Otáčel jsem pomalu listy.
 
 „Je to jasný, Honzo. Šrámek se ani nesnažil mi to vymlouvat. Podívej se na tohle.“
 
-  
+</section>
+
+<section>
 
 Jakub Jircha, Tomašice čp. 8, výměra 31 ha. Odsouzen k 5 letům těžkého žaláře, k propadnutí celého jmění, zákazu pobytu v dosavadním bydlišti, peněžité pokutě a ztrátě občanských práv.
 
-  
+</section>
+
+<section>
 
 „Takovýhle zprávy chodily z okresu na ministerstvo každej měsíc. Dá se to sehnat, když člověk ví kde. Jsou tam tresty v tom tomašickým procesu. Zatýkání provedený na udání ze vsi.“
 
@@ -290,3 +302,5 @@ Taky jsem se k němu naklonil.
 „Hm… zatím bych řek, že ji zajímá hlavně romantika. Hrady a zámky, Holašovice a tak.“
 
 Kennedy už mlčel a pili jsme pivo, zvon nahoře na věži bimbal osmou večerní. Přehraboval jsem se v papírech, Kennedy se do toho taky začetl. Cítil jsem, že s těmi několika okopírovanými dokumenty v ruce jsem teprve na začátku.
+
+</section>

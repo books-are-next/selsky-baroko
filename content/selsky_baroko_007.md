@@ -3,7 +3,7 @@ title: Dies mortis
 contentType: prose
 ---
 
-  
+<section>
 
 Z Třeboně jsem to vzal oklikou, ale nedojel jsem až do Hvozdí. Vjel jsem na polní cestu a došel po stráni k lesu. Sedl jsem si a díval se na hvozdecké chalupy a na tu naši. Pořád budu říkat naše chalupa, i když už mi z ní nepatří ani cihla. Odhadoval jsem, jestli už je bratr doma, nebo ještě v práci. Kolik už je to let, co mi řekl tu větu. Deset? Víc? _Táhni do města_, vmetl mi tehdy do tváře.
 
@@ -101,7 +101,9 @@ Dopíjel jsem druhé pivo, Kennedy šel na záchod, koukal jsem směrem ke koste
 
 * * *
 
-  
+</section>
+
+<section>
 
 Ze studovny vědecké knihovny jsem pozoroval pohyb po rušné budějovické třídě, slunce už nesvítilo do prosklené stěny, tak se v tom dusnu dalo u stolku snáze vydržet. Zato všechen hluk motorů sem doléhal otevřenými okny. A zase jsem si vzpomněl na Tomašice. Sehnutou babku už jsem na hřbitově podruhé nezastihl, zato jsem potkal staršího pána, jak nese do krámu přepravku od piva s prázdnými láhvemi. Dal jsem se s ním do hovoru. A teď jsem přemýšlel nad jeho větou: _Můj strejc, nějakej Sládek, tady z pětky, míval asi šestnáct hektarů, to už byl skoro kulak, víte_…
 
@@ -153,7 +155,9 @@ Do pěti hodin bylo času dost a fascikl dokumentů už mi přinesli.
 
 * * *
 
-  
+</section>
+
+<section>
 
 Jeli jsme s mistrem kamenickým mezi poli na kolech, šťastní jako děti. Trochu jsem zaspal a podařilo se mi ho dojet až v polovině cesty. Vezl v koši na nosiči kohouta jako každou druhou sobotu, kdy byl ve městečku za kopcem trh. Zapomněl si v předsíni klobouk, za jízdy jsem mu ho posadil na hlavu, jen pokývl a šlapal dál. Po úzké asfaltce nejezdilo moc aut, naštěstí. Ráno jsem se zhrozil, že už ho nedohoním. Měl jsem o něj strach. Jezdil cik cak na tom svém zrezivělém kole.
 
@@ -184,7 +188,9 @@ V kterým vokně jsem byl…
 
 Mistr kamenický stál na náměstí u svého koše, řekl jsem mu, ať se pro mě zastaví v hotelové restauraci, než pojede zpátky. Seděl jsem u kafe a probíral dokumenty, které jsem okopíroval v archivu.
 
-  
+</section>
+
+<section>
 
 Informační schůze na MNV Tomašice 7. 4. 1949.
 
@@ -194,7 +200,9 @@ JZD založeno 2. 7. 1949 za přítomnosti instruktorů z ONV.
 
 Počet členů JZD 18, celková výměra 28,5 ha zemědělské půdy.
 
-  
+</section>
+
+<section>
 
 Rozmazané litery, snad vlhkem, psací stroj před více než padesáti lety vytloukal ten strohý zápis do hrubého nažloutlého papíru a já jsem procházel stavy živého a mrtvého inventáře, soupis členů družstva a čísla popisná. Když jsem zavřel oči, viděl jsem ty chalupy. Znal jsem tomašickou náves už nazpaměť.
 
@@ -279,3 +287,5 @@ Místo odpovědi jsem se podíval na hodinky.
 „Nech toho…“
 
 Nakonec jsem švagrovou přemluvil, že to její kafe zaplatím. Roz­loučili jsme se na náměstí před hotelem.
+
+</section>
