@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "hajicek-selsky-baroko-8400b4b",
-  "revision": "8400b4b",
+  "identifier": "hajicek-selsky-baroko-56d44cb",
+  "revision": "56d44cb",
   "readingOrder": [
     "promo.html",
     "selsky_baroko_005.html",
@@ -31,8 +31,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Mon Jun 13 2022 21:57:43 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655157463660
+    "date": "Wed Jun 15 2022 05:56:52 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655272612447
   },
   "documents": [
     {
@@ -370,8 +370,8 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 119,
-      "chars": 772,
+      "words": 133,
+      "chars": 879,
       "ideas": 16,
       "role": "colophon",
       "order": null,
@@ -390,8 +390,8 @@
   ],
   "totals": {
     "all": {
-      "words": 47726,
-      "chars": 282123,
+      "words": 47740,
+      "chars": 282230,
       "ideas": 2153
     },
     "chapters": {
