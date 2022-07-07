@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "hajicek-selsky-baroko-3ec99aa",
-  "revision": "3ec99aa",
+  "identifier": "hajicek-selsky-baroko-4e57f27",
+  "revision": "4e57f27",
   "readingOrder": [
     "promo.html",
     "selsky_baroko_005.html",
@@ -28,11 +28,11 @@
     "selsky_baroko_018.html",
     "selsky_baroko_019.html",
     "selsky_baroko_020.html",
-    "colophon.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jun 23 2022 10:25:40 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655979940752
+    "date": "Thu Jul 07 2022 08:38:22 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657183102422
   },
   "documents": [
     {
@@ -201,7 +201,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "The River of Vltava",
+          "name": "The River of Vltava",
           "id": null,
           "children": []
         }
@@ -281,7 +281,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Ohlasy na Rozálii Zandlovou",
+          "name": "Ohlasy na Rozálii Zandlovou",
           "id": null,
           "children": []
         }
@@ -301,7 +301,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Blázen na kopci",
+          "name": "Blázen na kopci",
           "id": null,
           "children": []
         }
@@ -356,7 +356,7 @@
       "role": "chapter",
       "order": 16,
       "prev": "selsky_baroko_019.html",
-      "next": "colophon.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
@@ -369,11 +369,11 @@
     },
     {
       "title": "Tiráž",
-      "file": "colophon.html",
+      "file": "about.html",
       "words": 133,
-      "chars": 879,
+      "chars": 878,
       "ideas": 16,
-      "role": "colophon",
+      "role": "about",
       "order": null,
       "prev": "selsky_baroko_020.html",
       "next": null,
@@ -390,9 +390,9 @@
   ],
   "totals": {
     "all": {
-      "words": 47740,
-      "chars": 282230,
-      "ideas": 2153
+      "words": 47859,
+      "chars": 283001,
+      "ideas": 2169
     },
     "chapters": {
       "words": 47601,
