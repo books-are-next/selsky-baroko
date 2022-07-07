@@ -31,7 +31,7 @@ readingOrder:
   - selsky_baroko_018.html
   - selsky_baroko_019.html
   - selsky_baroko_020.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:
