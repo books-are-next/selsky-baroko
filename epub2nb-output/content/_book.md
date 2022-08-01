@@ -13,6 +13,7 @@ meta:
   edition: beletrie
   publisherShort: mkp
   contentType: prose
+  isbn: 978-80-274-0590-9
 readingOrder:
   - promo.html
   - selsky_baroko_005.html

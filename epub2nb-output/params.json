@@ -9,7 +9,8 @@
       "modified": "2020-05-13T00:00:00.000Z",
       "edition": "beletrie",
       "publisherShort": "mkp",
-      "contentType": "prose"
+      "contentType": "prose",
+      "isbn": "978-80-274-0590-9"
     },
     "elements": {
       "title": "MLP_ uroven1_zvlastni_pripady\nMLP_uroven1_cast\nMLP-uroven2-kapitola\nMLP_uroven2_kapitola",
@@ -25,11 +26,12 @@
       "brAfter": "MLP-text--12-12\nMLP-text--0-12\nMLP-text-bez1radku--0-12\nMLP_text_bez1radku_-0-12-",
       "blockquote": "MLP_verse_-0-12-\nMLP_verse_-12-12-\nMLP-dopis-bez1radku--I",
       "figure": "MLP_obrazky\nMLP-obrazky",
+      "centered": "",
+      "verse": "MLP-verse\nMLP-verse.+",
       "em": "MLP_znak_kurziva_11b\nMLP_dopis_podpis_-I-\nMLP_titulka_prekladatel\nMLP-dopis-bez1radku--I\nMLP-text--I\nMLP-text-uprostred--I\nMLP-znak-kurziva-11b\nMLP-znak-kurziva-9b\nMLP-znak-tucna-kurziva-11b\nMLP_citat\nMLP-dopis--I",
       "strong": "MLP-tiraz-autor-a-nazev\nMLP_tiraz_autor_a_nazev\nMLP-licence-paragraf",
       "remove": "",
-      "ignore": "",
-      "verse": "MLP-verse\nMLP-verse.+"
+      "ignore": ""
     },
     "structure": [
       {
@@ -95,8 +97,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": true,
-            "children": [],
-            "title": "Věnování"
+            "title": "Věnování",
+            "children": []
           },
           {
             "filename": "selsky_baroko_006.md",
@@ -516,6 +518,6 @@
       "user": "books-are-next",
       "repo": "selsky-baroko"
     },
-    "generatedAt": 1658413596489
+    "generatedAt": 1659361988235
   }
 }
