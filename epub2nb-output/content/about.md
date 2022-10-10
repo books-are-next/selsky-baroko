@@ -4,12 +4,11 @@ title: Tiráž
 
 **Jiří Hájíček    
 Selský baroko**  
-Ilustrace Ivan Aleshin/Shutterstock.com  
 Redakce Markéta Teuchnerová  
 Vydala Městská knihovna v Praze  
 Mariánské nám. 1, 115 72 Praha 1  
 ISBN 978-80-274-0590-9 (webová kniha)  
-V MKP 2. elektronické vydání z 7. 10. 2022.
+V MKP 2. elektronické vydání z 10. 10. 2022.
 
 ***
 
