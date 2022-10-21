@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "hajicek-selsky-baroko-bf7276d",
-  "revision": "bf7276d",
+  "identifier": "hajicek-selsky-baroko-0885b73",
+  "revision": "0885b73",
   "readingOrder": [
     "promo.html",
     "selsky_baroko_005.html",
@@ -31,8 +31,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Mon Oct 10 2022 15:45:56 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665416756233
+    "date": "Fri Oct 21 2022 11:41:59 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1666352519664
   },
   "documents": [
     {
